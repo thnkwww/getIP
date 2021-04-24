@@ -1,7 +1,9 @@
 # getIP
 REM Get and store your external IP
 
-REM Add a timer to keep track
+REM Add a timer to keep track over an extended period of time
+
+REM Store output in a database
 
 @echo off
 
